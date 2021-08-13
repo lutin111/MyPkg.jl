@@ -1,6 +1,6 @@
 module MyPkg
 
 # Write your package code here.
-println("test")
+println("test 123")
 
 end
