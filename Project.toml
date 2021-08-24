@@ -1,7 +1,7 @@
 name = "MyPkg"
 uuid = "394ea9a9-c9f9-477f-93fa-5713ff596334"
 authors = ["lutin111 <lutin111@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"
